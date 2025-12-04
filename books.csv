@@ -1,6 +1,41 @@
 id,title,author,year,category,stock,location
-101,Algoritma dan Pemrograman,Andi Wijaya,2019,Komputer,10,Rak A1
-102,Struktur Data,Lina Kartika,2020,Komputer,8,Rak A2
-103,Matematika Diskrit,Eko Prasetyo,2018,Matematika,5,Rak B1
-104,Pengantar Basis Data,Rudi Hartono,2021,Komputer,12,Rak A3
-105,Kecerdasan Buatan,Siti Marlina,2022,Komputer,4,Rak A4
+1,Laskar Pelangi,Andrea Hirata,2005,Fiksi,7,Rak A1
+2,Bumi,Tere Liye,2014,Fantasi,5,Rak B2
+3,Negeri 5 Menara,Ahmad Fuadi,2009,Fiksi,6,Rak A3
+4,Ayat-Ayat Cinta,Habiburrahman El Shirazy,2004,Romance,4,Rak A2
+5,Perahu Kertas,Dewi Lestari,2009,Romance,3,Rak A4
+6,Koala Kumal,Raditya Dika,2015,Humor,8,Rak C1
+7,Cantik Itu Luka,Eka Kurniawan,2002,Fiksi,4,Rak A5
+8,Supernova: Ksatria Puteri dan Bintang Jatuh,Dewi Lestari,2001,Fiksi,3, 2024
+9,Mariposa,Luluk HF,2018,Romance,6,Rak C2
+10,Atomic Habits,James Clear,2018,Self-Improvement,5,Rak D1
+11,Sapiens,Yuval Noah Harari,2011,History,3,Rak D2
+12,The Alchemist,Paulo Coelho,1988,Fiksi,6,Rak D3
+13,To Kill a Mockingbird,Harper Lee,1960,Fiksi,3,Rak D4
+14,Rich Dad Poor Dad,Robert Kiyosaki,1997,Finance,7,Rak D5
+15,Filosofi Teras,Henry Manampiring,2018,Self-Improvement,8,Rak B3
+16,Anak Semua Bangsa,Pramoedya Ananta Toer,1980,Fiksi,5,Rak A6
+17,Bumi Manusia,Pramoedya Ananta Toer,1980,Fiksi,4,Rak A7
+18,Orang-Orang Biasa,Tere Liye,2019,Fiksi,6,Rak B4
+19,Sepotong Senja untuk Pacarku,Saiful Bahri (Seno Gumira Ajidarma),2002,Fiksi,3,Rak A8
+20,Ronggeng Dukuh Paruk,Ahmad Tohari,1982,Fiksi,5,Rak A9
+21,Sang Pemimpi,Andrea Hirata,2006,Fiksi,5,Rak A10
+22,Padang Bulan,Andrea Hirata,2010,Fiksi,4,Rak A11
+23,Man's Search for Meaning,Viktor Frankl,1946,Self-Improvement,6,Rak D6
+24,The Subtle Art of Not Giving a F*ck,Mark Manson,2016,Self-Improvement,7,Rak D7
+25,Nanti Kita Cerita tentang Hari Ini,Mariana M,2018,Fiksi,8,Rak C3
+26,Dear Nathan,Erisa Febriani,2016,Romance,5,Rak C4
+27,Geez & Ann,Rintik Sedu,2017,Romance,6,Rak C5
+28,Aroma Karsa,Dewi Lestari,2018,Fiksi,4,Rak B5
+29,The Power of Habit,Charles Duhigg,2012,Self-Improvement,7,Rak D8
+30,Educated,Tara Westover,2018,Biografi,5,Rak D9
+31,Norwegian Wood,Haruki Murakami,1987,Fiksi,4,Rak D10
+32,Kambing Jantan,Raditya Dika,2005,Humor,8,Rak C6
+33,The Psychology of Money,Morgan Housel,2020,Finance,7,Rak D11
+34,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasi,6,Rak E1
+35,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasi,6,Rak E2
+36,Think and Grow Rich,Napoleon Hill,1937,Finance,5,Rak D12
+37,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Improvement,6,Rak D13
+38,The Kite Runner,Khaled Hosseini,2003,Fiksi,4,Rak E3
+39,1984,George Orwell,1949,Fiksi,5,Rak E4
+40,The Art of War,Sun Tzu,-500,Strategi,7,Rak E5

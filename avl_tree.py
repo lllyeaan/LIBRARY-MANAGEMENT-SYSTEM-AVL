@@ -39,9 +39,10 @@ class AVLTree:
         if root is None:
             return Node(book)
 
-        if book.key < root.book.key:
+        # Ubah perbandingan ke int untuk sorting numerik
+        if int(book.key) < int(root.book.key):
             root.left = self.insert(root.left, book)
-        elif book.key > root.book.key:
+        elif int(book.key) > int(root.book.key):
             root.right = self.insert(root.right, book)
         else:
             # perbarui data jika kunci duplikat
@@ -53,13 +54,13 @@ class AVLTree:
         balance = self.get_balance(root)
 
         if balance > 1:
-            if book.key < root.left.book.key:
+            if int(book.key) < int(root.left.book.key):
                 return self.right_rotate(root)
             root.left = self.left_rotate(root.left)
             return self.right_rotate(root)
 
         if balance < -1:
-            if book.key > root.right.book.key:
+            if int(book.key) > int(root.right.book.key):
                 return self.left_rotate(root)
             root.right = self.right_rotate(root.right)
             return self.left_rotate(root)
@@ -69,9 +70,9 @@ class AVLTree:
     def search(self, root, key):
         if root is None:
             return None
-        if key == root.book.key:
+        if int(key) == int(root.book.key):
             return root.book
-        if key < root.book.key:
+        if int(key) < int(root.book.key):
             return self.search(root.left, key)
         return self.search(root.right, key)
 
@@ -85,9 +86,10 @@ class AVLTree:
         if root is None:
             return None
 
-        if key < root.book.key:
+        # Ubah perbandingan ke int
+        if int(key) < int(root.book.key):
             root.left = self.delete(root.left, key)
-        elif key > root.book.key:
+        elif int(key) > int(root.book.key):
             root.right = self.delete(root.right, key)
         else:
             if root.left is None:

@@ -1,5 +1,6 @@
 username,password,role
-admin,admin123,admin
-budi,budi123,pengunjung
-sari,sari123,pengunjung
-khal,123k,pengunjung
+admin,password,admin
+user,password,pengunjung
+khalyana,password,pengunjung
+nadine,password,pengunjung
+allyya,password,pengunjung
